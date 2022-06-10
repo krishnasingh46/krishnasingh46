@@ -1,33 +1,34 @@
-[![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)](https://rishavchanda.io)
-<h1 align="center">Hello Sir.. 👋, I'm Krishna Singh</h1>
+<!-- [![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)](https://rishavchanda.io) -->
+<img width="1300" height="250" src="https://indoanalytica.com/static/images/bannerr.gif" alt=""> 
+<h1 align="center">Hello sir.. 👋, I'm Krishna Singh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1518535/screenshots/7528356/media/e11e5b8aaa2187e4e1a7c3da0553208e.gif" >
+<img align="right" alt="coding" width="400" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnasingh46&label=Profile%20views&color=0e75b6&style=flat" alt="krishnasingh46" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishnasingh46" alt="krishnasingh46" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce**
+- 🔭 I’m currently working on **E-commerce** <br>
 
-- 🌱 I’m currently learning **java, MongoDB**
+- 🌱 I’m currently learning **java, MongoDB** <br>
 
-- 👯 I’m looking to collaborate on **Google**
+- 👯 I’m looking to collaborate on **Google** <br>
 
-- 🤝 I’m looking for help with **AnyOne**
+- 🤝 I’m looking for help with **AnyOne** <br>
 
-- 👨‍💻 All of my projects are available at [https://krishnasingh46.github.io/My_Web_Portfolio/](https://krishnasingh46.github.io/My_Web_Portfolio/)
+- 👨‍💻 All of my projects are available at [https://krishnasingh46.github.io/My_Web_Portfolio/](https://krishnasingh46.github.io/My_Web_Portfolio/) <br>
 
-- 📝 I regularly write articles on [About Java-script](About Java-script)
+- 📝 I regularly write articles on [About Java-script](About Java-script) <br>
 
-- 💬 Ask me about **Java-script, Java,**
+- 💬 Ask me about **Java-script, Java,** <br>
 
-- 📫 How to reach me **krishnasingh46a59@gmail.com**
+- 📫 How to reach me **krishnasingh46a59@gmail.com** <br>
 
-- 📄 Know about my experiences [no link](no link)
+- 📄 Know about my experiences [no link](no link) <br>
 
-- ⚡ Fun fact **I think i am Funny**
+- ⚡ Fun fact **I think i am Funny** <br>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> <br>
 <p align="left">
 <a href="https://linkedin.com/in/krishna (nezha singh) singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna (nezha singh) singh" height="30" width="40" /></a>
 <a href="https://instagram.com/nejabolega" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nejabolega" height="30" width="40" /></a>
