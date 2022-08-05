@@ -1,5 +1,5 @@
 <!-- [![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)](https://rishavchanda.io) -->
-<img  width="600" height="250" src="https://indoanalytica.com/static/images/bannerr.gif" alt=""> 
+<img  width="850" height="250" src="https://indoanalytica.com/static/images/bannerr.gif" alt=""> 
 <h1 align="center">Hello There.. 👋, I'm Krishna Singh</h1>
 <h3 align="center">A passionate about full stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1518535/screenshots/7528356/media/e11e5b8aaa2187e4e1a7c3da0553208e.gif" >
